@@ -57,3 +57,13 @@ git remote add origin https://github.com/kkkaychen/gitTest0806.git
 git branch -M main
 git push -u origin main
 ```
+
+### 下一次推上遠端數據庫
+
+如果檔案修改後要再推上遠端數據庫，只要做下面的指令：
+
+```shell
+git add .
+git commit -m "update README.md"
+git push -u origin main
+```
