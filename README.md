@@ -53,7 +53,7 @@ git commit -m "新增/更改狀態描述"
 
 ### 加入遠端數據庫 (remote repository)
 ```shell
-git remote add origin https://github.com/kkkaychen/githubTest0806.git
+git remote add origin https://github.com/kkkaychen/gitTest0806.git
 git branch -M main
 git push -u origin main
 ```
